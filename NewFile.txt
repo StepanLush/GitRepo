@@ -1,2 +1,4 @@
 Some changes in dev branch
 
+Changing master without new commit
+
